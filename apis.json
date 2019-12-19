@@ -1,0 +1,48 @@
+{
+    "name": "Priceline PN",
+    "description": "Sell Priceline travel products online. Priceline Partner Networks CSS Styled booking engines are custom branded with your own look and feel. Join the travel affiliate program with the highest commissions  PPN",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28288-pricelinepartnernetwork-com.jpg",
+    "tags": [
+        "have api",
+        "hotels"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/priceline-pn\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Priceline PN",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28288-pricelinepartnernetwork-com.jpg",
+            "humanURL": "https:\/\/pricelinepartnernetwork.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/priceline-pn-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/priceline-pn-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/the-priceline-group"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pricelinepn"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/pricelinepartnernetwork.com"
+        }
+    ]
+}
